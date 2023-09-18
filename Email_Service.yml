@@ -1,10 +1,10 @@
 urlApp: "http://localhost:5173/verify"
 spring:
   mail:
-    host: smtp.gmail.com
+    host: smtp-relay.sendinblue.com
     port: 587
-    username: insys2stunteam@gmail.com
-    password: forgrhbgftvedmvu
+    username: azaiezabdessalem@gmail.com
+    password: 57TNUpnhHj6S0EMq
     properties:
       mail:
         smtp:
